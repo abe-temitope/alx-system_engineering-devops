@@ -1,5 +1,4 @@
-
-_world	Prints "Hello, World", followed by a new line to the standard output
+0-hello_world	Prints "Hello, World", followed by a new line to the standard output
 
 1-confused_smiley	Displays a confused smiley "(Ôo)'
 
@@ -13,7 +12,7 @@ _world	Prints "Hello, World", followed by a new line to the standard output
 
 6-third_line	Displays the third line of the file iacta
 
-7-file	Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the test Holberton School ending by a new line
+7-file	Creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the test Best School ending by a new line
 
 8-cwd_state	Writes into the file ls_cwd_content the result of the command ls -la.
 
